@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/2024-05-30-conference-1
 venue: "Jds 2024, SFdS - Université de Bordeaux"
-date: 2013-03-01
+date: 2024-05-30
 location: "Bordeaux, France"
 ---
 
