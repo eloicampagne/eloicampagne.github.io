@@ -45,10 +45,10 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
   * René Barjavel, Christian de Metter. **La nuit des temps**. Phileas, 2021.
 
 <hr style="border: none; border-top: 2px solid #ccc;"><footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
-  <a href="https://gaetanserre.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
+  <a href="https://www.gaetanserre.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
   </a>
   Webring des <b>délices</b>
-    <a href="https://gwendal-debaussart.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
+    <a href="https://www.gwendal-debaussart.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
     ⇝
   </a>
 </footer>
