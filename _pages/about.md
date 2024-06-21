@@ -48,7 +48,7 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
   <a href="https://www.gaetanserre.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
   </a>
   Webring des <b>délices</b>
-    <a href="https://www.gwendal-debaussart.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
+    <a href="https://gwendal-debaussart.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
     ⇝
   </a>
 </footer>
