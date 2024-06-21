@@ -44,38 +44,11 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
 
   * René Barjavel, Christian de Metter. **La nuit des temps**. Phileas, 2021.
 
-### :tent: Places to visit in Europe
-
-* <span class="flag-fr"></span> France
-
-  * Bretagne
-    * Rennes
-    * Carnac
-    * Erquy
-    * Saint-Malo
-    * Quimper
-    * L'Île aux moines
-  
-  * Nouvelle-Aquitaine
-    * Sarlat-la-Canéda
-    * La Roque-Gageac
-
-  * Corse
-    * Porto-Vecchio
-    * Propriano
-    * Bonifacio
-    * Calvi
-  
-* <span class="flag-nl"></span> Netherlands
-
-  * Amsterdam
-  * Enschede
-  * Den Haag
-
-* <span class="flag-dk"></span> Denmark
-
-  * Copenhagen
-
-* <span class="flag-se"></span> Sweden
-
-  * Stockholm
+<hr style="border: none; border-top: 2px solid #ccc;"><footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
+  <a href="https://gaetanserre.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
+  </a>
+  Webring des <b>délices</b>
+    <a href="https://gwendal-debaussart.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
+    ⇝
+  </a>
+</footer>
