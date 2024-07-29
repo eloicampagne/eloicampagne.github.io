@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Net Load in France: The EDF Data Challenge"
+title: "Leveraging Graph Neural Networks to Forecast Electricity Consumption"
 collection: talks
 type: "Conference"
 permalink: /talks/2024-09-09-conference-2
