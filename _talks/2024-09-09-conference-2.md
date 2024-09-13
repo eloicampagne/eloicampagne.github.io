@@ -11,5 +11,7 @@ location: "Vilnius, Lithuania"
 [More information here](https://sites.google.com/view/ml4sps/ml4sps)
 
 <div style='text-align: justify;'>
-This talk presents the use of GNN for forecasting electricity consumption. In particular, graph inference and explicability methods are presented, with applications on synthetic and real datasets.
+This talk presents the use of GNN for forecasting electricity consumption. In particular, graph inference and explainability methods are presented, with applications on synthetic and real datasets.
+
+Materials for the presentation: [[slides](/files/CAMPAGNE_GNN_ML4SPS_ECML24.pdf)][[poster](/files/Poster ECML_final_edits.pdf]
 </div>
