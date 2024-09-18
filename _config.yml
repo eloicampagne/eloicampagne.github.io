@@ -11,9 +11,9 @@ title                    : "Eloi Campagne"
 title_separator          : "-"
 name                     : &name "Eloi Campagne"
 description              : &description "personal description"
-url                      : https://exion35.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eloicampagne.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "exion35/exion35.github.io"
+repository               : "eloicampagne/eloicampagne.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "exion35"
+  github           : "eloicampagne"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "eloi-campagne-2391381b8/"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0004-8275-4371"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
