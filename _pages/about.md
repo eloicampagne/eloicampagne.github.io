@@ -24,26 +24,31 @@ redirect_from:
 
 Here is a non-exhaustive list of books I recommend based on the themes they cover. 
 
-<details>
-  <summary>Economy</summary>
-  * Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. **The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind**. New York: Universe Books, 1972.
+  <details>
+    <summary>Economy</summary>
+    
+    * Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. **The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind**. New York: Universe Books, 1972.
+    
+    * The Shift Project. **Climat, crises: Le plan de transformation de l'économie française**. Odile Jacob, 2022.
   
-  * The Shift Project. **Climat, crises: Le plan de transformation de l'économie française**. Odile Jacob, 2022.
-
-  * Timothée Parrique. **Ralentir ou périr: L'économie de la décroissance**. Seuil, 2023.
-</details> 
-<details>
-  <summary>Climate</summary>
-  * Inès Léraud, Pierre van Hove. **Algues vertes, l'histoire interdite**. Delcourt, 2019.
-
-  * Jean-Marc Jancovici, Christophe Blain. **Le Monde sans fin**. Dargaud, 2021.
-
-  * Anne Bres, Claire Marc, Bonpote. **Tout comprendre (ou presque) sur le climat**. CNRS Éditions, 2022.
-</details>
-<details>
-  <summary>Science fiction</summary>
-  * René Barjavel, Christian de Metter. **La nuit des temps**. Phileas, 2021.
-</details>
+    * Timothée Parrique. **Ralentir ou périr: L'économie de la décroissance**. Seuil, 2023.
+  </details> 
+  
+  <details>
+    <summary>Climate</summary>
+    
+    * Inès Léraud, Pierre van Hove. **Algues vertes, l'histoire interdite**. Delcourt, 2019.
+  
+    * Jean-Marc Jancovici, Christophe Blain. **Le Monde sans fin**. Dargaud, 2021.
+  
+    * Anne Bres, Claire Marc, Bonpote. **Tout comprendre (ou presque) sur le climat**. CNRS Éditions, 2022.
+  </details>
+  
+  <details>
+    <summary>Science fiction</summary>
+    
+    * René Barjavel, Christian de Metter. **La nuit des temps**. Phileas, 2021.
+  </details>
   
 <hr style="border: none; border-top: 2px solid #ccc;"><footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
   <a href="https://henri-saudubray.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
