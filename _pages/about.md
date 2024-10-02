@@ -26,28 +26,29 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
 
   <details>
     <summary>Economy</summary>
-    
-    * Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. **The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind**. New York: Universe Books, 1972.
-    
-    * The Shift Project. **Climat, crises: Le plan de transformation de l'économie française**. Odile Jacob, 2022.
-  
-    * Timothée Parrique. **Ralentir ou périr: L'économie de la décroissance**. Seuil, 2023.
+    <ul>
+      <li>Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. <b>The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind</b>. New York: Universe Books, 1972.</li>
+      <li>The Shift Project. <b>Climat, crises: Le plan de transformation de l'économie française</b>. Odile Jacob, 2022.</li>
+      <li>Timothée Parrique. <b>Ralentir ou périr: L'économie de la décroissance</b>. Seuil, 2023.</li>
+    </ul>
   </details> 
   
   <details>
     <summary>Climate</summary>
-    
-    * Inès Léraud, Pierre van Hove. **Algues vertes, l'histoire interdite**. Delcourt, 2019.
-  
-    * Jean-Marc Jancovici, Christophe Blain. **Le Monde sans fin**. Dargaud, 2021.
-  
-    * Anne Bres, Claire Marc, Bonpote. **Tout comprendre (ou presque) sur le climat**. CNRS Éditions, 2022.
+    <ul>
+      <li>Inès Léraud, Pierre van Hove. <b>Algues vertes, l'histoire interdite</b>. Delcourt, 2019.</li>
+      <li>Jean-Marc Jancovici, Christophe Blain. <b>Le Monde sans fin</b>. Dargaud, 2021.</li>
+      <li>Anne Bres, Claire Marc, Bonpote. <b>Tout comprendre (ou presque) sur le climat</b>. CNRS Éditions, 2022.</li>
+    </ul>
   </details>
   
   <details>
-    <summary>Science fiction</summary>
-    
-    * René Barjavel, Christian de Metter. **La nuit des temps**. Phileas, 2021.
+    <summary>Else</summary>
+    <ul>
+      <li>Jack London. <b>Martin Eden</b>. 1909.</li>
+      <li>Milan Kundera. <b>L'insoutenable Légèreté de l'être</b>. Gallimard, 1984.</li>
+      <li>René Barjavel, Christian de Metter. <b>La nuit des temps</b>. Phileas, 2021.</li>
+    </ul>
   </details>
   
 <hr style="border: none; border-top: 2px solid #ccc;"><footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
