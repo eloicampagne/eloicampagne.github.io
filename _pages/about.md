@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div style="text-align: justify"> 
-  I'm currently a PhD student at <a href="https://ens-paris-saclay.fr/">ENS Paris-Saclay</a>, in the <a href="https://centreborelli.ens-paris-saclay.fr/fr">Centre Borelli</a>'s Machine Learning and Massive Data Analysis (MLMDA) team, in collaboration with <a href="https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial">EDF Lab</a>'s consumption forecasting team, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=oEcLSFEAAAAJ">Argyris Kalogeratos</a>, <a href="https://scholar.google.com/citations?hl=en&user=j2cJzNAAAAAJ">Mathilde Mougeot</a> and <a href="https://scholar.google.com/citations?user=7UtFnUcAAAAJ&hl=en">Yvenn Amara-Ouali</a>.
+  I am currently a PhD student at <a href="https://ens-paris-saclay.fr/">ENS Paris-Saclay</a>, in the <a href="https://centreborelli.ens-paris-saclay.fr/fr">Centre Borelli</a>'s Machine Learning and Massive Data Analysis (MLMDA) team, in collaboration with <a href="https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial">EDF Lab</a>'s consumption forecasting team, under the supervision of <a href="https://kalogeratos.com/psite/">Argyris Kalogeratos</a>, <a href="https://sites.google.com/site/mougeotmathilde/">Mathilde Mougeot</a>, <a href="https://www.yvenn-amara.com/">Yvenn Amara-Ouali</a> and <a href="https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html">Yannig Goude</a>.
 
-  My work involves testing new methods for forecasting electricity consumption and production for power grid management, using graph-based neural networks. In particular, I'm interested in developing temporal and dynamic graph models that can be explained in the same way as generalized additive models.
+  My work involves testing new methods for forecasting electricity consumption and production for power grid management, using graph-based neural networks. In particular, I am interested in developing temporal and dynamic graph models that can be explained in the same way as generalized additive models.
 
   Prior to this, I graduated from <a href="https://www.telecom-sudparis.eu/">Télécom SudParis</a> with a specialization in mathematics, as well as from the <a href="https://www.master-mva.com/">Master MVA</a> program at the ENS Paris-Saclay, in 2023. I was able to spend a semester in the Netherlands at the <a href="https://www.utwente.nl/en/">University of Twente</a> as part of the Erasmus program in 2022, where I was able to learn more about Machine Learning.
 </div>
@@ -19,6 +18,12 @@ redirect_from:
 **Keywords**: Machine Learning, Artificial Intelligence, Graph Neural Networks, Time Series Forecasting, Explainability, Renewable Energy.
 
 ## Miscellaneous
+
+### :hourglass_flowing_sand: Work in Progress
+
+<ul>
+  <li>Work in progress with Guillaume Principato on Conformalized Graph Neural Networks.</li>
+</ul>
 
 ### :books: Books
 
