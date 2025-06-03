@@ -8,7 +8,7 @@ date: 2025-06-06
 location: "Marseille, France"
 ---
 
-[More information here]()
+[More information here](https://jds2025.sciencesconf.org/resource/page/id/21)
 
 <div style='text-align: justify;'>
 The paper introduces a novel graph-based approach to time series forecasting by leveraging weight cascade across tasks within a minimum spanning tree or a minimum cost arborescence structure, depending on the nature of the dependencies. 
