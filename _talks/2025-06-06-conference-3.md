@@ -15,4 +15,4 @@ The paper introduces a novel graph-based approach to time series forecasting by 
 The cascading process is refined through prototype selection and weight refinement using cascading algorithms. Key graph-theoretic components, such as minimum spanning trees for undirected dependencies and minimum cost arborescences for directed structures, as well as betweenness centrality, are used to capture the underlying structure of the time series data. The proposed method is validated through experiments on synthetic and real-world datasets, demonstrating superior predictive performance compared to traditional fine-tuning methods. Our approach highlights the scalability and efficiency of graph-based methods in time series forecasting.
 </div>
 
-Materials for the presentation: [slides]()
+Materials for the presentation: [slides](/files/jds25.pdf)
