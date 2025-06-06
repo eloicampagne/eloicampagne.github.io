@@ -2,9 +2,9 @@
 title: "Graph-Based Weight Cascading Methods for Multisite Time Series Forecasting"
 collection: talks
 type: "Conference"
-permalink: /talks/2025-06-06-conference-3
+permalink: /talks/2025-06-05-conference-3
 venue: "Jds 2025, SFdS - Aix Marseille Université"
-date: 2025-06-06
+date: 2025-06-05
 location: "Marseille, France"
 ---
 
