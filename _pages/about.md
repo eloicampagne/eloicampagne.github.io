@@ -22,6 +22,8 @@ redirect_from:
 ### :hourglass_flowing_sand: Work in Progress
 
 <ul>
+  <li>Work in progress on the application of GNNs and attention mechanisms to power grid modeling and analysis.</li>
+  <li>Work in progress on modeling and simulating cascade diffusion processes using graph-based approaches.</li>
   <li>Work in progress with <a href="https://www.imo.universite-paris-saclay.fr/fr/perso/guillaume-principato/">Guillaume Principato</a> on Conformalized Graph Neural Networks.</li>
 </ul>
 
