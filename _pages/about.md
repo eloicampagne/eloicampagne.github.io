@@ -22,7 +22,7 @@ redirect_from:
 ### :hourglass_flowing_sand: Work in Progress
 
 <ul>
-  <li>Work in progress with Guillaume Principato on Conformalized Graph Neural Networks.</li>
+  <li>Work in progress with <a href="https://www.imo.universite-paris-saclay.fr/fr/perso/guillaume-principato/">Guillaume Principato</a> on Conformalized Graph Neural Networks.</li>
 </ul>
 
 ### :books: Books
