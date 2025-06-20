@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eloi Campagne"
 title_separator          : "-"
 name                     : &name "Eloi Campagne"
-description              : &description "personal description"
+description              : &description ""PhD student in applied mathematics, working on Graph Neural Networks and power systems.""
 url                      : https://eloicampagne.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eloicampagne/eloicampagne.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "qnysk8JcqXcg45uD37XwXEF9NEAYk2qfTLOxHId4-Nk"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -66,9 +66,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: "Person"
+  name: "Eloi Campagne"
+  links:
+    - "https://github.com/eloicampagne"
+    - "https://www.linkedin.com/in/eloi-campagne-2391381b8/"
+    - "https://scholar.google.com/citations?user=LasrUmQAAAAJ&hl=fr"
 
 
 # Analytics
