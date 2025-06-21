@@ -31,37 +31,38 @@ redirect_from:
 
 Here is a non-exhaustive list of books I recommend based on the themes they cover. 
 
-  <details>
-    <summary>Economy</summary>
-    <ul>
+  <details style="margin-top: 1.5em;">
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #2c3e50;">🏦 Economy</summary>
+    <ul style="margin-top: 0.5em;">
       <li>Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. <b>The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind</b>. New York: Universe Books, 1972.</li>
       <li>The Shift Project. <b>Climat, crises: Le plan de transformation de l'économie française</b>. Odile Jacob, 2022.</li>
       <li>Timothée Parrique. <b>Ralentir ou périr: L'économie de la décroissance</b>. Seuil, 2023.</li>
     </ul>
   </details> 
   
-  <details>
-    <summary>Climate</summary>
-    <ul>
+  <details style="margin-top: 1em;">
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #16a085;">🌍 Climate</summary>
+     <ul style="margin-top: 0.5em;">
       <li>Inès Léraud, Pierre van Hove. <b>Algues vertes, l'histoire interdite</b>. Delcourt, 2019.</li>
       <li>Jean-Marc Jancovici, Christophe Blain. <b>Le Monde sans fin</b>. Dargaud, 2021.</li>
       <li>Anne Bres, Claire Marc, Bonpote. <b>Tout comprendre (ou presque) sur le climat</b>. CNRS Éditions, 2022.</li>
     </ul>
   </details>
   
-  <details>
-    <summary>Else</summary>
-    <ul>
+  <details style="margin-top: 1em;">
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #8e44ad;">🌀 Else</summary>
+    <ul style="margin-top: 0.5em;">
       <li>Jack London. <b>Martin Eden</b>. 1909.</li>
       <li>Milan Kundera. <b>L'insoutenable Légèreté de l'être</b>. Gallimard, 1984.</li>
       <li>René Barjavel, Christian de Metter. <b>La nuit des temps</b>. Phileas, 2021.</li>
     </ul>
   </details>
   
-<hr style="border: none; border-top: 2px solid #ccc;"><footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
+<hr style="border: none; border-top: 2px solid #ccc;">
+<footer style="text-align: center; padding: 10px 0; width: 100%; position: relative; bottom: 0; left: 0;">
   <a href="https://henri-saudubray.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">    ⇜
   </a>
-  Webring des <b>délices</b>
+  🍒 Webring des <b>délices</b> 🍒
     <a href="https://valeran-maytie.fr/" style="color: #000; text-decoration: none; margin: 0 10px;">
     ⇝
   </a>
