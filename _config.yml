@@ -11,7 +11,7 @@ title                    : "Eloi Campagne"
 title_separator          : "-"
 name                     : &name "Eloi Campagne"
 description              : &description "PhD student in applied mathematics, working on Graph Neural Networks and power systems."
-url                      : https://eloicampagne.fr/ 
+url                      : https://eloicampagne.fr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eloicampagne/eloicampagne.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
