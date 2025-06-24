@@ -30,32 +30,78 @@ redirect_from:
 ### :books: Books
 
 Here is a non-exhaustive list of books I recommend based on the themes they cover. 
+  
+  <style>
+    details {
+      margin-top: 1.5em;
+      background: #f9f9f9;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1em;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1.2em;
+      list-style: none;
+    }
+
+    .book-entry {
+      background: #fff;
+      border-left: 4px solid #3498db;
+      padding: 0.8em 1em;
+      margin: 0.8em 0;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .book-entry b {
+      color: #2c3e50;
+    }
+
+    .book-entry small {
+      display: block;
+      color: #777;
+      margin-top: 0.3em;
+    }
+  </style>
 
   <details style="margin-top: 1.5em;">
-    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #2c3e50;">🏦 Economy</summary>
-    <ul style="margin-top: 0.5em;">
-      <li>Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. <b>The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind</b>. New York: Universe Books, 1972.</li>
-      <li>The Shift Project. <b>Climat, crises: Le plan de transformation de l'économie française</b>. Odile Jacob, 2022.</li>
-      <li>Timothée Parrique. <b>Ralentir ou périr: L'économie de la décroissance</b>. Seuil, 2023.</li>
-    </ul>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1em; color: #2c3e50;">🏦 Economy</summary>
+    <div class="book-entry">
+      <ul style="margin-top: 0.5em;">
+        <small>
+        <li>Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens III. <b>The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind</b>. New York: Universe Books, 1972.</li>
+        <li>The Shift Project. <b>Climat, crises: Le plan de transformation de l'économie française</b>. Odile Jacob, 2022.</li>
+        <li>Timothée Parrique. <b>Ralentir ou périr: L'économie de la décroissance</b>. Seuil, 2023.</li>
+        </small>
+      </ul>
+    </div>
   </details> 
   
   <details style="margin-top: 1em;">
-    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #16a085;">🌍 Climate</summary>
-     <ul style="margin-top: 0.5em;">
-      <li>Inès Léraud, Pierre van Hove. <b>Algues vertes, l'histoire interdite</b>. Delcourt, 2019.</li>
-      <li>Jean-Marc Jancovici, Christophe Blain. <b>Le Monde sans fin</b>. Dargaud, 2021.</li>
-      <li>Anne Bres, Claire Marc, Bonpote. <b>Tout comprendre (ou presque) sur le climat</b>. CNRS Éditions, 2022.</li>
-    </ul>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1em; color: #16a085;">🌍 Climate</summary>
+     <div class="book-entry">
+      <ul style="margin-top: 0.5em;">
+        <small>
+        <li>Inès Léraud, Pierre van Hove. <b>Algues vertes, l'histoire interdite</b>. Delcourt, 2019.</li>
+        <li>Jean-Marc Jancovici, Christophe Blain. <b>Le Monde sans fin</b>. Dargaud, 2021.</li>
+        <li>Anne Bres, Claire Marc, Bonpote. <b>Tout comprendre (ou presque) sur le climat</b>. CNRS Éditions, 2022.</li>
+        </small>
+      </ul>
   </details>
   
   <details style="margin-top: 1em;">
-    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #8e44ad;">🌀 Else</summary>
-    <ul style="margin-top: 0.5em;">
-      <li>Jack London. <b>Martin Eden</b>. 1909.</li>
-      <li>Milan Kundera. <b>L'insoutenable Légèreté de l'être</b>. Gallimard, 1984.</li>
-      <li>René Barjavel, Christian de Metter. <b>La nuit des temps</b>. Phileas, 2021.</li>
-    </ul>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1em; color: #8e44ad;">🌀 Else</summary>
+    <div class="book-entry">
+      <ul style="margin-top: 0.5em;">
+        <small>
+        <li>Jack London. <b>Martin Eden</b>. 1909.</li>
+        <li>Milan Kundera. <b>L'insoutenable Légèreté de l'être</b>. Gallimard, 1984.</li>
+        <li>René Barjavel, Christian de Metter. <b>La nuit des temps</b>. Phileas, 2021.</li>
+        </small>
+      </ul>
   </details>
   
 <hr style="border: none; border-top: 2px solid #ccc;">
