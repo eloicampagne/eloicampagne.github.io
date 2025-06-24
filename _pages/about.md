@@ -90,6 +90,7 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
         <li>Anne Bres, Claire Marc, Bonpote. <b>Tout comprendre (ou presque) sur le climat</b>. CNRS Éditions, 2022.</li>
         </small>
       </ul>
+    </div>
   </details>
   
   <details style="margin-top: 1em;">
@@ -102,6 +103,7 @@ Here is a non-exhaustive list of books I recommend based on the themes they cove
         <li>René Barjavel, Christian de Metter. <b>La nuit des temps</b>. Phileas, 2021.</li>
         </small>
       </ul>
+    </div>
   </details>
   
 <hr style="border: none; border-top: 2px solid #ccc;">
