@@ -4,71 +4,77 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>https://eloicampagne.github.io/</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/publications/</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/publications/</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/talks/</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/talks/</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/cv/</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/cv/</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/publication/2024-09-09-leveraging-gnn-electricity-forecasting-1</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/publication/2024-09-09-leveraging-gnn-electricity-forecasting-1</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/talks/2025-06-05-conference-3</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/talks/2025-06-05-conference-3</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/talks/2024-09-09-conference-2</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/talks/2024-09-09-conference-2</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/talks/2024-05-30-conference-1</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/talks/2024-05-30-conference-1</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/files/jds25.pdf</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/talkmap/map.html</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eloicampagne.fr/files/jds25.pdf</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/files/CAMPAGNE_GNN_ML4SPS_ECML24.pdf</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/files/CAMPAGNE_GNN_ML4SPS_ECML24.pdf</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/files/Poster_ECML_final_edits.pdf</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/files/Poster_ECML_final_edits.pdf</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/files/CAMPAGNE_JDS.pdf</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/files/CAMPAGNE_JDS.pdf</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://eloicampagne.github.io/files/JDS_abstract-8.pdf</loc>
-  <lastmod>2025-06-20T11:21:58+00:00</lastmod>
+  <loc>https://eloicampagne.fr/files/JDS_abstract-8.pdf</loc>
+  <lastmod>2025-06-24T11:57:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
