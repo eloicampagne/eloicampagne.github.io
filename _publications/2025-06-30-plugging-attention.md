@@ -3,9 +3,6 @@ title: "Plugging Attention into Power Grids: Towards Transparent Forecasting"
 collection: publications
 permalink: /publication/2025-06-30-plugging-attention
 excerpt: 'We benchmark various Graph Neural Network architectures for electricity consumption forecasting in France and the UK, showing that simple models like GCN and APPNP perform well in complex settings. While attention-based models such as GAT offer valuable interpretability through dynamic spatial patterns, ensemble strategies further improve robustness under data heterogeneity.'
-date: 2024-06-30
-venue: ''
-paperurl: ''
 citation: 'Campagne, E., Amara-Ouali, Y., Goude, Y., Kalogeratos, A. (2025). Plugging Attention into Power Grids: Towards Transparent Forecasting. Preprint.'
 ---
 
