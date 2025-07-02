@@ -1,0 +1,12 @@
+---
+title: "Plugging Attention into Power Grids: Towards Transparent Forecasting"
+collection: publications
+permalink: /publication/2025-06-30-plugging-attention
+excerpt: 'We benchmark various Graph Neural Network architectures for electricity consumption forecasting in France and the UK, showing that simple models like GCN and APPNP perform well in complex settings. While attention-based models such as GAT offer valuable interpretability through dynamic spatial patterns, ensemble strategies further improve robustness under data heterogeneity.'
+date: 2024-06-30
+venue: ''
+paperurl: ''
+citation: 'Campagne, E., Amara-Ouali, Y., Goude, Y., Kalogeratos, A. (2025). Plugging Attention into Power Grids: Towards Transparent Forecasting. Preprint.'
+---
+
+Accurate electricity consumption forecasting is crucial for ensuring grid stability and optimizing power generation, particularly in increasingly decentralized and complex systems. While classical approaches such as Generalized Additive Models (GAMs) remain widely used, they often fail to capture the spatial dependencies inherent in energy networks. Graph Neural Networks (GNNs) offer a principled framework to incorporate this structure by directly leveraging graph topologies. In this work, we evaluate a broad set of GNN architectures -- including GCN, GraphSAGE, ChebConv, TAG, APPNP, TransformerConv, and Graph Attention Networks (GAT and GATv2) -- on two real-world electricity consumption datasets from France and the UK. Our experiments show that while complex architectures like GATv2 and TransformerConv do not consistently outperform their simpler counterparts, models such as GCN and APPNP achieve strong results in low-data or highly disaggregated settings. Nonetheless, the vanilla GAT remains highly competitive across both datasets and offers an additional interpretability layer via attention mechanisms. We perform a temporal analysis of attention weights, revealing evolving patterns of regional interaction linked to seasonal and meteorological variability. These results highlight that, although attention is not universally superior, it provides valuable explanatory power when spatial dependencies are prominent. Finally, we benchmark ensemble-based expert aggregation strategies, showing that uniform or learned combinations can enhance robustness and outperform individual models under data heterogeneity.
