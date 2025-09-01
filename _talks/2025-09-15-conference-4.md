@@ -14,4 +14,4 @@ location: "Porto, Portugal"
 This talk is about the effectiveness of various Graph Neural Network (GNN) architectures for forecasting electricity consumption in France and the UK. By leveraging the spatial structure of power grids, we assess models like GCN, APPNP, and GATv2, highlighting that simpler GNNs often perform competitively in low-data or fragmented settings. Beyond predictive performance, the work emphasizes the interpretability offered by attention-based models and explores ensemble strategies to improve robustness under data heterogeneity.
 </div>
 <br>
-Materials for the presentation: [poster](/files/ECMLPoster25.pdf.pdf)
+Materials for the presentation: [poster](/files/ECMLPoster25.pdf)
