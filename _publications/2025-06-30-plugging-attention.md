@@ -5,7 +5,7 @@ permalink: /publication/2025-06-30-plugging-attention
 excerpt: 'We benchmark various Graph Neural Network architectures for electricity consumption forecasting in France and the UK, showing that simple models like GCN and APPNP perform well in complex settings. While attention-based models such as GAT offer valuable interpretability through dynamic spatial patterns, ensemble strategies further improve robustness under data heterogeneity.'
 date: 2025-09-15
 venue: 'ECML PKDD 2025, Machine Learning for Sustainable Power Systems (ML4SPS) Workshop'
-paperurl: 'https://arxiv.org/pdf/2507.03690'
+paperurl: 'https://arxiv.org/pdf/2507.03690v2'
 citation: 'Campagne, E., Amara-Ouali, Y., Goude, Y., Kalogeratos, A. (2025). Plugging Attention into Power Grids: Towards Transparent Forecasting. In Proceedings of the Machine Learning for Sustainable Power Systems workshop at ECML PKDD 2025, Porto, Portugal.'
 ---
 
